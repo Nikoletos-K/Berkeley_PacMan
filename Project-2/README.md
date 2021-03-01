@@ -10,6 +10,12 @@ As in project 1, this project includes an autograder for autograde the answers o
 ```
 python autograder.py -q q2
 ```
+## Course corpus
+- Q1: Reflex Agent
+- Q2: Minimax
+- Q3: Alpha-Beta Pruning
+- Q4: Expectimax
+- Q5: Evaluation Function
 
 ## Files edited:
 ```multiAgents.py```	Where all of your multi-agent search agents will reside.
