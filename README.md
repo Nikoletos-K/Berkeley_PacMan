@@ -1,3 +1,8 @@
+
+
+![pacman](https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif)
+
+
 # Berkeley_PacMan
 
 I tried to make the course of Berkeley in Artificial Intelligence. This projects made as of the lesson Artificial Intelligence 1, taught by Dr. Manolis Koubarakis in 2019-2020 winter semester.
