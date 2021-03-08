@@ -5,7 +5,7 @@
 
 # Berkeley_PacMan
 
-I tried to make the course of Berkeley in Artificial Intelligence. This projects made as of the lesson Artificial Intelligence 1, taught by Dr. Manolis Koubarakis in 2019-2020 winter semester.
+I tried to make the course of Berkeley in Artificial Intelligence. This projects made as part of the lesson Artificial Intelligence 1, taught by Dr. Manolis Koubarakis in 2019-2020 winter semester.
 
 This repository consists of the Berkeley projects:
 
