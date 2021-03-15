@@ -1,5 +1,5 @@
 # Project 1: Search
----
+
 Berkeley CS188 Intro to AI in this [link](http://ai.berkeley.edu/search.html)  
 
 In this project, mine Pacman agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. I builded general search algorithms and apply them to Pacman scenarios.
@@ -27,5 +27,6 @@ Code was autograded for technical correctness. Running this cmd:
 python autograder.py
 ```
 
+---
 
 
