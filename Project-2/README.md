@@ -1,5 +1,5 @@
 # Project 2: Multi-Agent Search
----
+
 Berkeley CS188 Intro to AI in this [link](http://ai.berkeley.edu/search.html)  
 
 In this project, I designed agents for the classic version of Pacman, including ghosts. Along the way, I implemented both minimax and expectimax search.
@@ -25,3 +25,5 @@ python autograder.py -q q2
 ```game.py```	The logic behind how the Pacman world works. This file describes several supporting types like AgentState, Agent, Direction, and Grid.
 
 ```util.py```	Useful data structures for implementing search algorithms.
+
+---
